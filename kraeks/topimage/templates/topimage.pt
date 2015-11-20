@@ -1,4 +1,8 @@
-<div id="meinkraeks" style="background: #ffffff url(hipster.jpg) no-repeat; background-size: 100%; height: 380px;" class="kraeks-topimage">
-<span style="color: #ffffff"><p id="kraeks_zitat">Alles Große bildet, sobald wir es gewahr werden</p>
-<p id="kraeks_autor">Johann Wolfgang von Goethe</p></span>
-</div>
+  <ul class="bxslider">
+    <li style="width: 100%;"><img style="width: 100%;" src="hipster.jpg" 
+    title="Alles Große bildet, sobald wir es gewahr werden. (Johann Wolfgang v. Goethe)" ></li>
+    <li style="width: 100%;"><img style="width: 100%;" src="indiwoman.jpg" 
+    title="Reisen veredelt den Geist und räumt mit unseren Vorurteilen auf. (Oscar Wilde)" ></li>
+    <li style="width: 100%;"><img style="width: 100%;" src="painter.jpg" 
+    title="Sobald jemand in einer Sache Meister geworden ist, sollte er in einer neuen Sache Schüler werden. (Gerhard Hauptmann)" ></li>
+  </ul>  
